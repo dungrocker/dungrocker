@@ -1,0 +1,6 @@
+.bglmage {
+    background: url("image/bg-header.jpg");
+    background-size: cover;
+    background-position: center;
+    height:100%;
+}
